@@ -1,0 +1,55 @@
+# Olga Sinkevich
+
+****
+### Contacts:
+
+* Location: Minsk, Belarus
+* Phone: +375 25 609-02-32
+* Email: olgasienkiewicz17@gmail.com
+* GitHub: [OlgaSink](https://github.com/OlgaSink)
+* Telegram: [@Olgasienkiewicz](https://t.me/Olgasienkiewicz)
+
+****
+### About myself:
+
+I'm 28 years old. I worked as a medical physicist. But now I quit my job and learn Front-End Development in RSSchool!
+
+****
+### Code example:
+
+```
+function multiply(a, b){
+return a * b;
+}
+```
+
+****
+### Experience:
+
+* Medical physicist in  “Minsk City Clinical Oncologic Dispensary (2015 - 2021).
+* I have small own freight business.
+
+****
+### My projects:
+
+[CV](https://github.com/OlgaSink/rsschool-cv.git)
+
+****
+### Education:
+
+* University: 
+
+    *  Belarusian State University of Informatics and Radioelectronics:
+        * Medical Electronics (First Degree) 
+        * Devices, Systems and Products for Medical Purposes (Master Degree)
+
+* Courses:
+    * [RS School](https://rs.school/):
+        * JS / FRONT-END. STAGE 0 (RU).
+
+****
+### Languages:
+
+* Belarusian - native speaker;
+* Russian - native speaker;
+* English - A1.
