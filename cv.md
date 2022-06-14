@@ -1,5 +1,7 @@
 # Olga Sinkevich
 
+I am a student of RS School
+
 ****
 ### Contacts:
 
@@ -8,6 +10,7 @@
 * Email: olgasienkiewicz17@gmail.com
 * GitHub: [OlgaSink](https://github.com/OlgaSink)
 * Telegram: [@Olgasienkiewicz](https://t.me/Olgasienkiewicz)
+* Discord: [OlgaSink#3667]
 
 ****
 ### About myself:
@@ -53,3 +56,8 @@ return a * b;
 * Belarusian - native speaker;
 * Russian - native speaker;
 * English - A1.
+
+****
+### Hobbies:
+
+I love cooking and baking.
