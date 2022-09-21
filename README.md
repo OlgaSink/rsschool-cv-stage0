@@ -1,3 +1,3 @@
-https://OlgaSink.github.io/rsschool-cv/cv
+https://OlgaSink.github.io/rsschool-cv-stage0/cv
 
-https://olgasink.github.io/rsschool-cv/
+https://olgasink.github.io/rsschool-cv-stage0/
